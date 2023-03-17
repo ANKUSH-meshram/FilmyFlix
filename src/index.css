@@ -1,0 +1,14 @@
+/* tailwind */
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Fonts */
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@100;200;300;400;500;600;700;800;900&family=Oleo+Script:wght@400;700&family=Poppins:wght@100;200;300;400;500;600;700;800&display=swap');
+
+body {
+  margin: 0;
+  padding: 0;
+  background-color: #1c1c1c;
+  color: azure;
+}
